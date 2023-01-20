@@ -5,7 +5,7 @@ abstract public class A1 {//abstract class
 	abstract public void m2();//abstract method
 	 public void m3() {
 		System.out.println("i am already completed in abstract class ");
-		 system.out.println("I am solve my issue after 4 hour")
+		 System.out.println("I am solve my issue after 4 hour");
 	}
 	
 
